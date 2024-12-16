@@ -1,0 +1,152 @@
+﻿[
+    {
+        "question": "3.2 Wie verändert sich das Bild auf der Retina, wenn sich der Pupillenradius vergrößert?",
+        "answerOptions": [
+            {
+                "answer": " Das Bild wird schärfer",
+                "isCorrect": false
+            },
+            {
+                "answer": "Bei stark erhöhter Lichtintensität vermindert sich die Farbwahrnehmung",
+                "isCorrect": true
+            },
+            {
+                "answer": "Das Bild wird dunkler",
+                "isCorrect": false
+            },
+            {
+                "answer": "Das Bild wird unschärfer",
+                "isCorrect": true
+            },
+            {
+                "answer": "Das Bild wird heller",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "3.4 Die logarithmische Pupillenreaktionsformel beschreibt:",
+        "answerOptions": [
+            {
+                "answer": "Einen exponentiellen Anstieg der Pupillengröße bei erhöhter Lichtintensität",
+                "isCorrect": false
+            },
+            {
+                "answer": "Einen nichtlinearen Zusammenhang zwischen der Lichtintensität und der Pupillenreaktion",
+                "isCorrect": true
+            },
+            {
+                "answer": "Dass die Pupillengröße bei hohen Lichtintensitäten weniger stark auf Veränderung der Lichtintensität reagiert als bei niedrigen",
+                "isCorrect": true
+            },
+            {
+                "answer": "Dass das Ergebnis der Pupillengröße Individuen abhängig ist",
+                "isCorrect": true
+            },
+            {
+                "answer": "Nichts der obengenannten Aussagen",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "3.5 Was passiert mit dem einfallenden Licht, wenn sich die Pupille verkleinert?",
+        "answerOptions": [
+            {
+                "answer": "Das Strahlenbündel wird durch die Verkleinerung der Durchtrittfläche konzentrierter",
+                "isCorrect": true
+            },
+            {
+                "answer": "Aufgrund der kleiner Durchtrittsfläche gelangt weniger diffuses Licht ins Auge",
+                "isCorrect": true
+            },
+            {
+                "answer": "Aufgrund der kleiner Durchtrittsfläche verändert sich die Dispersion der Wellenlänge",
+                "isCorrect": false
+            },
+            {
+                "answer": "Der fokussierte Strahl verbessert die Bildschärfe",
+                "isCorrect": true
+            },
+            {
+                "answer": "Der konzentrierte Strahl ermöglicht, dass Objekte in unterschiedlichen Entfernungen als scharf wahrgenommen werden können",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "3.7 Wie wird die Anpassung des Auges an unterschiedliche Lichteinfälle beschrieben?",
+        "answerOptions": [
+            {
+                "answer": "Adaption",
+                "isCorrect": false
+            },
+            {
+                "answer": "Dilatation",
+                "isCorrect": false
+            },
+            {
+                "answer": "Dilation",
+                "isCorrect": false
+            },
+            {
+                "answer": "Akkommodation",
+                "isCorrect": false
+            },
+            {
+                "answer": "Adaptation",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "3.8 Was ist ein möglicher Auslöser für eine Pupillendilatation?",
+        "answerOptions": [
+            {
+                "answer": "Hohe Lichtintensitäten",
+                "isCorrect": false
+            },
+            {
+                "answer": "Niedrige Lichtintensitäten",
+                "isCorrect": true
+            },
+            {
+                "answer": "Entspannung des Musculus ciliaris",
+                "isCorrect": false
+            },
+            {
+                "answer": "Überreizung der Zonula ciliaris",
+                "isCorrect": false
+            },
+            {
+                "answer": "Kurze Wellenlängen",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "3.9 Wird die Lichtintensität des Gegenstandes erhöht, so kann folgendes beobachtet werden:",
+        "answerOptions": [
+            {
+                "answer": "Bei erhöhter Lichtintensität erweitert sich die Pupilla",
+                "isCorrect": false
+            },
+            {
+                "answer": "Der Musculus ciliaris entspannt sich um die Lens oculi zu entlasten",
+                "isCorrect": false
+            },
+            {
+                "answer": "Bei erhöhter Lichtintensität zieht sich die Pupilla zusammen",
+                "isCorrect": true
+            },
+            {
+                "answer": "Die Retina schützt die Photorezeptoren vor der erhöhten Lichtintensität",
+                "isCorrect": false
+            },
+            {
+                "answer": "Die Akkommodation der Lens oculi reguliert den Lichteinfall",
+                "isCorrect": false
+            }
+        ]
+    }
+]

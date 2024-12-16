@@ -1,0 +1,52 @@
+﻿[
+    {
+        "question": "Which of the following are Characters from the Super Mario Franchise?",
+        "answerOptions": [
+            {
+                "answer": "Mario",
+                "isCorrect": true
+            },
+            {
+                "answer": "Walter White",
+                "isCorrect": false
+            },
+            {
+                "answer": "Princess Peach",
+                "isCorrect": true
+            },
+            {
+                "answer": "Bowser",
+                "isCorrect": true
+            },
+            {
+                "answer": "A half eaten tuna sandwich",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of these statements about Spongebob Squarepants are true?",
+        "answerOptions": [
+            {
+                "answer": "He lives in a pineapple under the sea",
+                "isCorrect": true
+            },
+            {
+                "answer": "He has a pet snail named \"Larry\"",
+                "isCorrect": false
+            },
+            {
+                "answer": "He is always pessimistic",
+                "isCorrect": false
+            },
+            {
+                "answer": "He works as a fastfood cook at the Krusty Krab",
+                "isCorrect": true
+            },
+            {
+                "answer": "He was responsible for the outbreak of the Thirty Years' War in Central Europe",
+                "isCorrect": false
+            }
+        ]
+    }
+]

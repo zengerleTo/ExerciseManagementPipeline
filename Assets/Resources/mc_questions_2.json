@@ -1,0 +1,177 @@
+﻿[
+    {
+        "question": "2.1 In folgender Versuchsreihe ist die Akkommodation der Linse aktiviert. Verschieben Sie erneut den Gegenstand auf der optischen Achse. Bei welchen anatomischen Strukturen können Veränderungen beobachtet werden?",
+        "answerOptions": [
+            {
+                "answer": "Pupilla",
+                "isCorrect": false
+            },
+            {
+                "answer": "Musculus ciliaris",
+                "isCorrect": true
+            },
+            {
+                "answer": "Zonula ciliaris",
+                "isCorrect": true
+            },
+            {
+                "answer": "Iris",
+                "isCorrect": false
+            },
+            {
+                "answer": "Lens oculi",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "2.2 Welche weiteren anatomischen Strukturen müssen zwangsläufig an der Akkommodation beteiligt sein?",
+        "answerOptions": [
+            {
+                "answer": "Choroidea",
+                "isCorrect": false
+            },
+            {
+                "answer": "Retina",
+                "isCorrect": true
+            },
+            {
+                "answer": "Nervus opticus",
+                "isCorrect": true
+            },
+            {
+                "answer": "Makula lutea",
+                "isCorrect": false
+            },
+            {
+                "answer": "Papilla nervi optici",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "2.3 Was verändert sich bei der automatischen Akkommodation der Linse nicht?",
+        "answerOptions": [
+            {
+                "answer": "Brennweite",
+                "isCorrect": false
+            },
+            {
+                "answer": "Bildweite",
+                "isCorrect": true
+            },
+            {
+                "answer": "Gegenstandsweite",
+                "isCorrect": false
+            },
+            {
+                "answer": "Gegenstandsgröße",
+                "isCorrect": true
+            },
+            {
+                "answer": "Krümmungsradius der Linse",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "2.4 Bei der Anpassung auf einen Gegenstand, der sich in der Nähe befindet wird:",
+        "answerOptions": [
+            {
+                "answer": "der Ziliarmuskel angespannt",
+                "isCorrect": true
+            },
+            {
+                "answer": "die Zonulafasern entspannt",
+                "isCorrect": true
+            },
+            {
+                "answer": "die Krümmungsradien verkleinert",
+                "isCorrect": true
+            },
+            {
+                "answer": "die Brechkraft der Linse vergrößert",
+                "isCorrect": true
+            },
+            {
+                "answer": "die Brennweite der Linse verkleinert",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "2.5 Die Grenzen der Akkommodation werden wie folgt genannt:",
+        "answerOptions": [
+            {
+                "answer": "Nahpunkt",
+                "isCorrect": true
+            },
+            {
+                "answer": "Fernpunkt",
+                "isCorrect": true
+            },
+            {
+                "answer": "Gegenstandspunkt",
+                "isCorrect": false
+            },
+            {
+                "answer": "Bildpunkt",
+                "isCorrect": false
+            },
+            {
+                "answer": "Akkommodationsbreiten",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "2.6 Wir haben den Gegenstand auf den Nahpunkt gesetzt. Stellen Sie hierzu ein scharfes Bild auf der Retina ein. Wie verändert sich die Linse und damit einhergehend die Brechkraft?",
+        "answerOptions": [
+            {
+                "answer": "Der Musculus ciliaris zieht an der Lens oculi, sodass sie sich verdickt und die Brechkraft sinkt",
+                "isCorrect": false
+            },
+            {
+                "answer": "Die Zonula ciliaris sind angespannt, weshalb die Lens oculi verschlankt wird und die Brechkraft sinkt",
+                "isCorrect": false
+            },
+            {
+                "answer": "Durch Kontraktion der Musculus ciliaris verdickt die Lens oculi und die Brechkraft steigt",
+                "isCorrect": true
+            },
+            {
+                "answer": "Durch Kontraktion der Zonula ciliaris verdickt die Lens oculi und die Brechkraft sinkt",
+                "isCorrect": false
+            },
+            {
+                "answer": "Der Musculus ciliaris entspannt sich, wodurch die Lens oculi verschlankt wird und die Brechkraft steigt.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "2.7  Sie sehen sich einen weit entfernten Baum an. Der Gegenstand wurde nun auf den Fernpunkt gesetzt. Was geschieht mit der Linse und damit einhergehend mit der Brennweite, damit ein scharfes Bild entsteht?",
+        "answerOptions": [
+            {
+                "answer": "Die Lens oculi verschlankt, weshalb die Brechkraft sinkt und die Brennweite steigt",
+                "isCorrect": true
+            },
+            {
+                "answer": "Die Lens oculi verdickt, weshalb die Brechkraft steigt und die Brennweite steigt",
+                "isCorrect": false
+            },
+            {
+                "answer": "Die Lens oculi verschlankt, weshalb die Brechkraft steigt und die Brennweite sinkt",
+                "isCorrect": false
+            },
+            {
+                "answer": "Die Lens oculi verschlankt, weshalb die Brechkraft steig und die Brennweite steigt",
+                "isCorrect": false
+            },
+            {
+                "answer": "Die Lens oculi verdickt, weshalb die Brechkraft sinkt und die Brennweite sinkt",
+                "isCorrect": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,152 @@
+﻿[
+    {
+        "question": "1.3 Schieben Sie nun den Gegenstand wieder näher an die Linse. Was hat sich nicht verändert?",
+        "answerOptions": [
+            {
+                "answer": "Bildweite",
+                "isCorrect": false
+            },
+            {
+                "answer": "Brennweite",
+                "isCorrect": true
+            },
+            {
+                "answer": "Dicke der Linse",
+                "isCorrect": true
+            },
+            {
+                "answer": "Brechkraft der Linse",
+                "isCorrect": true
+            },
+            {
+                "answer": "Gegenstandsweite",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "1.4 Patienten, die an Presbyopie (Alterssichtigkeit) leiden, haben eine verkürzte Brennweite, weshalb sie z.B. Zeitungen weiter weg halten, um diese lesen zu können. Welche Weite wird hier aktiv vergrößert?",
+        "answerOptions": [
+            {
+                "answer": "Brennweite",
+                "isCorrect": false
+            },
+            {
+                "answer": "Bildweite",
+                "isCorrect": false
+            },
+            {
+                "answer": "Doppelte Brennweite",
+                "isCorrect": false
+            },
+            {
+                "answer": "Gegenstandsweite",
+                "isCorrect": true
+            },
+            {
+                "answer": "Optische Achse",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "1.5 Um die Presbyopie auszugleichen, können die Patienten Lesebrillen nutzen. Bei Lesebrillen handelt es sich um Sammellinsen, dies bedeutet",
+        "answerOptions": [
+            {
+                "answer": "die Parallelstrahlen werden hinter der Linse in einem Punkt vereinigt",
+                "isCorrect": true
+            },
+            {
+                "answer": "die Parallelstrahlen verlaufen divergent auseinander",
+                "isCorrect": false
+            },
+            {
+                "answer": "die Parallelstrahlen werden vor der Linse einem Punkt vereinigt",
+                "isCorrect": false
+            },
+            {
+                "answer": "die Parallelstrahlen konvergieren",
+                "isCorrect": true
+            },
+            {
+                "answer": "die Parallelstrahlen vergrößern die Wellenlänge",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "1.6 Welche der folgenden Bestandteile gehören zum dioptrischen Apparat?",
+        "answerOptions": [
+            {
+                "answer": "Corpus vitreum",
+                "isCorrect": true
+            },
+            {
+                "answer": "Choroidea",
+                "isCorrect": false
+            },
+            {
+                "answer": "Lens oculi",
+                "isCorrect": true
+            },
+            {
+                "answer": "Musculus ciliaris und zonula ciliaris",
+                "isCorrect": false
+            },
+            {
+                "answer": "Cornea",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "1.7 In welcher Reihenfolge passieren einfallende Lichtstrahlen unser Auge?",
+        "answerOptions": [
+            {
+                "answer": "Cornea → Camera anterior bulbi → Lens oculi → Corpus vitreum → Retina",
+                "isCorrect": true
+            },
+            {
+                "answer": "Cornea → Lens oculi → Camera anterior bulbi → Corpus vitreum → Retina",
+                "isCorrect": false
+            },
+            {
+                "answer": "Cornea → Camera posterior bulbi → Lens oculi → Corpus vitreum → Retina",
+                "isCorrect": false
+            },
+            {
+                "answer": "Cornea → Lens oculi → Corpus vitreum → Camera anterior bulbi → Retina",
+                "isCorrect": false
+            },
+            {
+                "answer": "Cornea → Corpus vitreum → Lens oculi → Camera posterior bulbi → Retina",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "1.8 Das Auge kann auf mehr als nur eine Distanz scharf sehen. Welcher Prozess ermöglicht es dem Auge, sich auf Objekte unterschiedlicher Entfernung zu fokussieren?",
+        "answerOptions": [
+            {
+                "answer": "Refraktion",
+                "isCorrect": false
+            },
+            {
+                "answer": "Konvergenz",
+                "isCorrect": false
+            },
+            {
+                "answer": "Adaptation",
+                "isCorrect": false
+            },
+            {
+                "answer": "Akkommodation",
+                "isCorrect": true
+            },
+            {
+                "answer": "Dilatation",
+                "isCorrect": false
+            }
+        ]
+    }
+]
